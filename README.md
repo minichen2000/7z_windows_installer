@@ -32,7 +32,7 @@ There, you've got the installer **mypackaged.exe**.
 ##Here I note the commands for making LLM.exe for myself:<br>
 ```
 7z a llm.7z *
-copy /b 7zS.sfx + config.txt + llm.7z + LLM.exe
+copy /b 7zS.sfx + config.txt + llm.7z  LLM.exe
 ```
 
 **config.txt**:<br>
